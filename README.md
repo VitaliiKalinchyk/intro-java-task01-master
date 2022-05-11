@@ -15,8 +15,10 @@ and implement its static methods:
   • modulus of a number, if its value is strictly negative;\
   • zero, if the integer n is zero.
 ###  Example:  
-`n = 4 `   -> result =  16   
+`n = 4 `   -> result =  16
+  
 `n = -5`  ->  result =  5  
+
 `n = 0`   ->  result = 0   
 
 
