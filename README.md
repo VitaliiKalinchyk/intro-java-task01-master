@@ -9,8 +9,7 @@ Please, proceed to [`ConditionStatements`](src/main/java/com/epam/rd/autotasks/C
 and implement its static methods:
 ---
 * `int task1(int n)`\
-  Task 1:
-  For a given integer n calculate the value which is equal to a:\
+For a given integer n calculate the value which is equal to a:\
   • squared number, if its value is strictly positive;\
   • modulus of a number, if its value is strictly negative;\
   • zero, if the integer n is zero.
@@ -30,34 +29,14 @@ Code Sample:
 ```java
 ...
 System.out.println(ConditionStatements.task1(4));
+System.out.println(ConditionStatements.task1(-5));
+System.out.println(ConditionStatements.task1(0));
+
 ```
 
 Output:
 ```
 16
-```
-
----
-Code Sample:
-```java
-...
-System.out.println(ConditionStatements.task1(-5));
-```
-
-Output:
-```
 5
-```
-
----
-Code Sample:
-```java
-...
-System.out.println(ConditionStatements.task1(0));
-```
-
-Output:
-```
 0
 ```
-
