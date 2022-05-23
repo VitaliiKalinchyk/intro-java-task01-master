@@ -1,4 +1,4 @@
-# ConditionStatements
+# Condition Statements
 
 The purpose of this exercise is to train you to work with condition statements.
 
